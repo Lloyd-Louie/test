@@ -1,0 +1,11 @@
+C:\Users\GodisGood\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\GodisGood\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\GodisGood\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\GodisGood\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\GodisGood\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\GodisGood\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\GodisGood\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\GodisGood\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+C:\Users\GodisGood\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+C:\Users\GodisGood\documents\visual studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+C:\Users\GodisGood\Documents\Visual Studio 2010\Projects\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication1.Form3.resources
