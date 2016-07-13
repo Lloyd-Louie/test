@@ -15,14 +15,6 @@ WindowsApplication2
   Overrides the current thread's CurrentUICulture property for all
   resource lookups using this strongly typed resource class.
 </summary>
-</member><member name="P:WindowsApplication1.My.Resources.Resources._05">
-	<summary>
-  Looks up a localized resource of type System.Byte[].
-</summary>
-</member><member name="P:WindowsApplication1.My.Resources.Resources._INSTRUMENTAL__Justin_Timberlake___SexyBack_zg9EU3bCyl0_youtube">
-	<summary>
-  Looks up a localized resource of type System.Byte[].
-</summary>
 </member><member name="P:WindowsApplication1.My.Resources.Resources.BackGround_11">
 	<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
@@ -43,10 +35,6 @@ WindowsApplication2
 	<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
-</member><member name="P:WindowsApplication1.My.Resources.Resources.Game_icon2">
-	<summary>
-  Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
 </member><member name="P:WindowsApplication1.My.Resources.Resources.Icon_game">
 	<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
@@ -58,10 +46,6 @@ WindowsApplication2
 </member><member name="P:WindowsApplication1.My.Resources.Resources.Icon_game2">
 	<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
-</summary>
-</member><member name="P:WindowsApplication1.My.Resources.Resources.Just_What_I_want_to__Official_Instrumental_">
-	<summary>
-  Looks up a localized resource of type System.Byte[].
 </summary>
 </member><member name="P:WindowsApplication1.My.Resources.Resources.Just_What_I_want_to__Official_Instrumental_1">
 	<summary>

@@ -61,26 +61,6 @@ Namespace My.Resources
         End Property
         
         '''<summary>
-        '''  Looks up a localized resource of type System.Byte[].
-        '''</summary>
-        Friend ReadOnly Property _05() As Byte()
-            Get
-                Dim obj As Object = ResourceManager.GetObject("_05", resourceCulture)
-                Return CType(obj,Byte())
-            End Get
-        End Property
-        
-        '''<summary>
-        '''  Looks up a localized resource of type System.Byte[].
-        '''</summary>
-        Friend ReadOnly Property _INSTRUMENTAL__Justin_Timberlake___SexyBack_zg9EU3bCyl0_youtube() As Byte()
-            Get
-                Dim obj As Object = ResourceManager.GetObject("_INSTRUMENTAL__Justin_Timberlake___SexyBack_zg9EU3bCyl0_youtube", resourceCulture)
-                Return CType(obj,Byte())
-            End Get
-        End Property
-        
-        '''<summary>
         '''  Looks up a localized resource of type System.Drawing.Bitmap.
         '''</summary>
         Friend ReadOnly Property BackGround_11() As System.Drawing.Bitmap
@@ -132,16 +112,6 @@ Namespace My.Resources
         '''<summary>
         '''  Looks up a localized resource of type System.Drawing.Bitmap.
         '''</summary>
-        Friend ReadOnly Property Game_icon2() As System.Drawing.Bitmap
-            Get
-                Dim obj As Object = ResourceManager.GetObject("Game icon2", resourceCulture)
-                Return CType(obj,System.Drawing.Bitmap)
-            End Get
-        End Property
-        
-        '''<summary>
-        '''  Looks up a localized resource of type System.Drawing.Bitmap.
-        '''</summary>
         Friend ReadOnly Property Icon_game() As System.Drawing.Bitmap
             Get
                 Dim obj As Object = ResourceManager.GetObject("Icon_game", resourceCulture)
@@ -166,16 +136,6 @@ Namespace My.Resources
             Get
                 Dim obj As Object = ResourceManager.GetObject("Icon_game2", resourceCulture)
                 Return CType(obj,System.Drawing.Bitmap)
-            End Get
-        End Property
-        
-        '''<summary>
-        '''  Looks up a localized resource of type System.Byte[].
-        '''</summary>
-        Friend ReadOnly Property Just_What_I_want_to__Official_Instrumental_() As Byte()
-            Get
-                Dim obj As Object = ResourceManager.GetObject("Just_What_I_want_to__Official_Instrumental_", resourceCulture)
-                Return CType(obj,Byte())
             End Get
         End Property
         

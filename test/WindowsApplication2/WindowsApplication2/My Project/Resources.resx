@@ -118,29 +118,17 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="Game icon2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Game icon2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="_05" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\05.mp3;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
   <data name="Board1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Board1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Icon_game2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Icon_game2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Just_What_I_want_to__Official_Instrumental_" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Just What I want to (Official Instrumental).mp3;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
   <data name="Just_What_I_want_to__Official_Instrumental_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Just What I want to (Official Instrumental).wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="Icon_game" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Icon_game.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="_INSTRUMENTAL__Justin_Timberlake___SexyBack_zg9EU3bCyl0_youtube" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\[INSTRUMENTAL] Justin Timberlake - SexyBack_zg9EU3bCyl0_youtube.mp3;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="Board" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Board.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>

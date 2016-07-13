@@ -8,18 +8,14 @@
 
     End Sub
 
-    Private Sub PictureBox1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles PictureBox1.Click
-        
-
-        
-
-            Dim a As New Form2
-
-            a.Show()
-            Me.Hide()
+    Private Sub PictureBox1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs)
 
 
-      
+
+
+       
+
+
 
     End Sub
 
