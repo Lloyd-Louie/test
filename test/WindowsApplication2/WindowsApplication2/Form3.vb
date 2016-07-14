@@ -497,4 +497,89 @@
     Private Sub PictureBox17_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles PictureBox17.Click
 
     End Sub
+
+    Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button1.Click
+        PictureBox1.Visible = True
+        PictureBox2.Visible = True
+        PictureBox3.Visible = True
+        PictureBox8.Visible = True
+        PictureBox10.Visible = True
+        PictureBox11.Visible = True
+        PictureBox12.Visible = True
+        PictureBox15.Visible = True
+        PictureBox14.Visible = True
+        PictureBox16.Visible = True
+        PictureBox17.Visible = True
+        PictureBox6.Visible = True
+
+        CheckBox1.Visible = True
+        CheckBox2.Visible = True
+        CheckBox3.Visible = True
+        CheckBox4.Visible = True
+        CheckBox5.Visible = True
+        CheckBox6.Visible = True
+        CheckBox7.Visible = True
+        CheckBox8.Visible = True
+        CheckBox9.Visible = True
+        CheckBox10.Visible = True
+        CheckBox11.Visible = True
+        CheckBox12.Visible = True
+
+        CheckBox1.Checked = False
+        CheckBox2.Checked = False
+        CheckBox3.Checked = False
+        CheckBox4.Checked = False
+        CheckBox5.Checked = False
+        CheckBox6.Checked = False
+        CheckBox7.Checked = False
+        CheckBox8.Checked = False
+        CheckBox9.Checked = False
+        CheckBox10.Checked = False
+        CheckBox11.Checked = False
+        CheckBox12.Checked = False
+
+    End Sub
+
+    Private Sub Button2_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button2.Click
+        Form2.Show()
+        Me.Hide()
+        PictureBox1.Visible = True
+        PictureBox2.Visible = True
+        PictureBox3.Visible = True
+        PictureBox8.Visible = True
+        PictureBox10.Visible = True
+        PictureBox11.Visible = True
+        PictureBox12.Visible = True
+        PictureBox15.Visible = True
+        PictureBox14.Visible = True
+        PictureBox16.Visible = True
+        PictureBox17.Visible = True
+        PictureBox6.Visible = True
+
+        CheckBox1.Visible = True
+        CheckBox2.Visible = True
+        CheckBox3.Visible = True
+        CheckBox4.Visible = True
+        CheckBox5.Visible = True
+        CheckBox6.Visible = True
+        CheckBox7.Visible = True
+        CheckBox8.Visible = True
+        CheckBox9.Visible = True
+        CheckBox10.Visible = True
+        CheckBox11.Visible = True
+        CheckBox12.Visible = True
+
+        CheckBox1.Checked = False
+        CheckBox2.Checked = False
+        CheckBox3.Checked = False
+        CheckBox4.Checked = False
+        CheckBox5.Checked = False
+        CheckBox6.Checked = False
+        CheckBox7.Checked = False
+        CheckBox8.Checked = False
+        CheckBox9.Checked = False
+        CheckBox10.Checked = False
+        CheckBox11.Checked = False
+        CheckBox12.Checked = False
+    End Sub
 End Class
