@@ -29,21 +29,21 @@ Partial Class Form2
         'Button1
         '
         Me.Button1.Font = New System.Drawing.Font("Minion Pro", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button1.Location = New System.Drawing.Point(21, 88)
+        Me.Button1.Location = New System.Drawing.Point(146, 45)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(180, 78)
         Me.Button1.TabIndex = 0
-        Me.Button1.Text = "Set 1"
+        Me.Button1.Text = "Play"
         Me.Button1.UseVisualStyleBackColor = True
         '
         'Button2
         '
         Me.Button2.Font = New System.Drawing.Font("Minion Pro", 15.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button2.Location = New System.Drawing.Point(312, 88)
+        Me.Button2.Location = New System.Drawing.Point(146, 249)
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(180, 78)
         Me.Button2.TabIndex = 1
-        Me.Button2.Text = "Set 2"
+        Me.Button2.Text = "About"
         Me.Button2.UseVisualStyleBackColor = True
         '
         'Form2

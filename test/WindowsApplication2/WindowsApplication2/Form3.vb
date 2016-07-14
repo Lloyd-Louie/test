@@ -10,15 +10,17 @@
                 PictureBox6.Visible = False
                 PictureBox11.Visible = False
                 TextBox1.Text = Val(TextBox1.Text) + 10
+                CheckBox7.Visible = False
+                CheckBox8.Visible = False
             End If
-            If CheckBox1.Checked = True Or CheckBox2.Checked = True Or CheckBox3.Checked = True Or CheckBox4.Checked = True Or CheckBox5.Checked = True Or CheckBox6.Checked = True Or CheckBox10.Checked = True Or CheckBox10.Checked = True Or CheckBox11.Checked = True Or CheckBox12.Checked = True Then
+            If CheckBox1.Checked = True Or CheckBox2.Checked = True Or CheckBox3.Checked = True Or CheckBox4.Checked = True Or CheckBox5.Checked = True Or CheckBox6.Checked = True Or CheckBox9.Checked = True Or CheckBox10.Checked = True Or CheckBox11.Checked = True Or CheckBox12.Checked = True Then
                 CheckBox1.Checked = False
                 CheckBox6.Checked = False
 
                 CheckBox4.Checked = False
                 CheckBox2.Checked = False
                 CheckBox5.Checked = False
-                CheckBox6.Checked = False
+
                 CheckBox7.Checked = False
                 CheckBox3.Checked = False
                 CheckBox9.Checked = False
@@ -41,11 +43,11 @@
                 PictureBox6.Visible = False
                 PictureBox11.Visible = False
                 TextBox1.Text = Val(TextBox1.Text) + 10
+                CheckBox7.Visible = False
+                CheckBox8.Visible = False
             End If
-            If CheckBox1.Checked = True Or CheckBox2.Checked = True Or CheckBox3.Checked = True Or CheckBox4.Checked = True Or CheckBox5.Checked = True Or CheckBox6.Checked = True Or CheckBox10.Checked = True Or CheckBox10.Checked = True Or CheckBox11.Checked = True Or CheckBox12.Checked = True Then
+            If CheckBox1.Checked = True Or CheckBox2.Checked = True Or CheckBox3.Checked = True Or CheckBox4.Checked = True Or CheckBox5.Checked = True Or CheckBox6.Checked = True Or CheckBox9.Checked = True Or CheckBox10.Checked = True Or CheckBox11.Checked = True Or CheckBox12.Checked = True Then
                 CheckBox1.Checked = False
-                CheckBox6.Checked = False
-
                 CheckBox4.Checked = False
                 CheckBox2.Checked = False
                 CheckBox5.Checked = False
@@ -72,11 +74,14 @@
                 PictureBox7.Visible = False
                 PictureBox14.Visible = False
                 TextBox1.Text = Val(TextBox1.Text) + 10
+                CheckBox5.Visible = False
+                CheckBox6.Visible = False
+
             End If
-            If CheckBox1.Checked = True Or CheckBox2.Checked = True Or CheckBox3.Checked = True Or CheckBox4.Checked = True Or CheckBox7.Checked = True Or CheckBox8.Checked = True Or CheckBox10.Checked = True Or CheckBox10.Checked = True Or CheckBox11.Checked = True Or CheckBox12.Checked = True Then
+            If CheckBox1.Checked = True Or CheckBox2.Checked = True Or CheckBox3.Checked = True Or CheckBox4.Checked = True Or CheckBox7.Checked = True Or CheckBox8.Checked = True Or CheckBox9.Checked = True Or CheckBox10.Checked = True Or CheckBox11.Checked = True Or CheckBox12.Checked = True Then
 
-                CheckBox6.Checked = False
 
+                CheckBox1.Checked = False
                 CheckBox4.Checked = False
                 CheckBox2.Checked = False
                 CheckBox5.Checked = False
@@ -103,10 +108,13 @@
                 PictureBox7.Visible = False
                 PictureBox14.Visible = False
                 TextBox1.Text = Val(TextBox1.Text) + 10
-            End If
-            If CheckBox1.Checked = True Or CheckBox2.Checked = True Or CheckBox3.Checked = True Or CheckBox4.Checked = True Or CheckBox7.Checked = True Or CheckBox8.Checked = True Or CheckBox10.Checked = True Or CheckBox10.Checked = True Or CheckBox11.Checked = True Or CheckBox12.Checked = True Then
+                CheckBox5.Visible = False
+                CheckBox6.Visible = False
 
-                CheckBox5.Checked = False
+            End If
+            If CheckBox1.Checked = True Or CheckBox2.Checked = True Or CheckBox3.Checked = True Or CheckBox4.Checked = True Or CheckBox7.Checked = True Or CheckBox8.Checked = True Or CheckBox9.Checked = True Or CheckBox10.Checked = True Or CheckBox11.Checked = True Or CheckBox12.Checked = True Then
+
+                CheckBox1.Checked = False
 
                 CheckBox4.Checked = False
                 CheckBox2.Checked = False
@@ -134,8 +142,10 @@
                 PictureBox12.Visible = False
                 PictureBox2.Visible = False
                 TextBox1.Text = Val(TextBox1.Text) + 10
+                CheckBox3.Visible = False
+                CheckBox4.Visible = False
             End If
-            If CheckBox1.Checked = True Or CheckBox2.Checked = True Or CheckBox5.Checked = True Or CheckBox6.Checked = True Or CheckBox7.Checked = True Or CheckBox8.Checked = True Or CheckBox10.Checked = True Or CheckBox10.Checked = True Or CheckBox11.Checked = True Or CheckBox12.Checked = True Then
+            If CheckBox1.Checked = True Or CheckBox2.Checked = True Or CheckBox5.Checked = True Or CheckBox6.Checked = True Or CheckBox7.Checked = True Or CheckBox8.Checked = True Or CheckBox9.Checked = True Or CheckBox10.Checked = True Or CheckBox11.Checked = True Or CheckBox12.Checked = True Then
 
                 CheckBox1.Checked = False
 
@@ -162,10 +172,11 @@
                 PictureBox12.Visible = False
                 PictureBox2.Visible = False
                 TextBox1.Text = Val(TextBox1.Text) + 10
-
+                CheckBox3.Visible = False
+                CheckBox4.Visible = False
             End If
 
-            If CheckBox1.Checked = True Or CheckBox2.Checked = True Or CheckBox5.Checked = True Or CheckBox6.Checked = True Or CheckBox7.Checked = True Or CheckBox8.Checked = True Or CheckBox10.Checked = True Or CheckBox10.Checked = True Or CheckBox11.Checked = True Or CheckBox12.Checked = True Then
+            If CheckBox1.Checked = True Or CheckBox2.Checked = True Or CheckBox5.Checked = True Or CheckBox6.Checked = True Or CheckBox7.Checked = True Or CheckBox8.Checked = True Or CheckBox9.Checked = True Or CheckBox10.Checked = True Or CheckBox11.Checked = True Or CheckBox12.Checked = True Then
 
                 CheckBox3.Checked = False
 
@@ -217,9 +228,12 @@
                 PictureBox1.Visible = False
                 PictureBox8.Visible = False
                 TextBox1.Text = Val(TextBox1.Text) + 10
+                CheckBox1.Visible = False
+                CheckBox2.Visible = False
+
             End If
 
-            If CheckBox3.Checked = True Or CheckBox4.Checked = True Or CheckBox5.Checked = True Or CheckBox6.Checked = True Or CheckBox7.Checked = True Or CheckBox8.Checked = True Or CheckBox10.Checked = True Or CheckBox10.Checked = True Or CheckBox11.Checked = True Or CheckBox12.Checked = True Then
+            If CheckBox3.Checked = True Or CheckBox4.Checked = True Or CheckBox5.Checked = True Or CheckBox6.Checked = True Or CheckBox7.Checked = True Or CheckBox8.Checked = True Or CheckBox9.Checked = True Or CheckBox10.Checked = True Or CheckBox11.Checked = True Or CheckBox12.Checked = True Then
                 CheckBox1.Checked = False
                 CheckBox3.Checked = False
                 CheckBox4.Checked = False
@@ -249,10 +263,11 @@
                 PictureBox1.Visible = False
                 PictureBox8.Visible = False
                 TextBox1.Text = Val(TextBox1.Text) + 10
-
+                CheckBox1.Visible = False
+                CheckBox2.Visible = False
 
             End If
-            If CheckBox3.Checked = True Or CheckBox4.Checked = True Or CheckBox5.Checked = True Or CheckBox6.Checked = True Or CheckBox7.Checked = True Or CheckBox8.Checked = True Or CheckBox10.Checked = True Or CheckBox10.Checked = True Or CheckBox11.Checked = True Or CheckBox12.Checked = True Then
+            If CheckBox3.Checked = True Or CheckBox4.Checked = True Or CheckBox5.Checked = True Or CheckBox6.Checked = True Or CheckBox7.Checked = True Or CheckBox8.Checked = True Or CheckBox9.Checked = True Or CheckBox10.Checked = True Or CheckBox11.Checked = True Or CheckBox12.Checked = True Then
                 CheckBox2.Checked = False
                 CheckBox3.Checked = False
                 CheckBox4.Checked = False
@@ -275,6 +290,20 @@
 
     Private Sub Form3_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
         TextBox1.BackColor = Color.SkyBlue
+        TextBox1.Enabled = False
+
+        CheckBox1.Enabled = False
+        CheckBox2.Enabled = False
+        CheckBox3.Enabled = False
+        CheckBox4.Enabled = False
+        CheckBox5.Enabled = False
+        CheckBox6.Enabled = False
+        CheckBox7.Enabled = False
+        CheckBox8.Enabled = False
+        CheckBox9.Enabled = False
+        CheckBox10.Enabled = False
+        CheckBox11.Enabled = False
+        CheckBox12.Enabled = False
     End Sub
 
     Private Sub PictureBox2_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles PictureBox2.Click
@@ -328,6 +357,8 @@
                 PictureBox16.Visible = False
                 PictureBox15.Visible = False
                 TextBox1.Text = Val(TextBox1.Text) + 10
+                CheckBox9.Visible = False
+                CheckBox10.Visible = False
             End If
             If CheckBox1.Checked = True Or CheckBox2.Checked = True Or CheckBox3.Checked = True Or CheckBox4.Checked = True Or CheckBox5.Checked = True Or CheckBox6.Checked = True Or CheckBox7.Checked = True Or CheckBox8.Checked = True Or CheckBox11.Checked = True Or CheckBox12.Checked = True Then
                 CheckBox1.Checked = False
@@ -360,6 +391,8 @@
                 PictureBox16.Visible = False
                 PictureBox15.Visible = False
                 TextBox1.Text = Val(TextBox1.Text) + 10
+                CheckBox9.Visible = False
+                CheckBox10.Visible = False
             End If
             If CheckBox1.Checked = True Or CheckBox2.Checked = True Or CheckBox3.Checked = True Or CheckBox4.Checked = True Or CheckBox5.Checked = True Or CheckBox6.Checked = True Or CheckBox7.Checked = True Or CheckBox8.Checked = True Or CheckBox11.Checked = True Or CheckBox12.Checked = True Then
                 CheckBox1.Checked = False
@@ -403,10 +436,12 @@
                 PictureBox3.Visible = False
                 PictureBox10.Visible = False
                 TextBox1.Text = Val(TextBox1.Text) + 10
+                CheckBox11.Visible = False
+                CheckBox12.Visible = False
             End If
             If CheckBox1.Checked = True Or CheckBox2.Checked = True Or CheckBox3.Checked = True Or CheckBox4.Checked = True Or CheckBox5.Checked = True Or CheckBox6.Checked = True Or CheckBox7.Checked = True Or CheckBox8.Checked = True Or CheckBox9.Checked = True Or CheckBox10.Checked = True Then
                 CheckBox1.Checked = False
-                CheckBox6.Checked = False
+
 
                 CheckBox4.Checked = False
                 CheckBox2.Checked = False
@@ -435,10 +470,12 @@
                 PictureBox3.Visible = False
                 PictureBox10.Visible = False
                 TextBox1.Text = Val(TextBox1.Text) + 10
+                CheckBox11.Visible = False
+                CheckBox12.Visible = False
             End If
             If CheckBox1.Checked = True Or CheckBox2.Checked = True Or CheckBox3.Checked = True Or CheckBox4.Checked = True Or CheckBox5.Checked = True Or CheckBox6.Checked = True Or CheckBox7.Checked = True Or CheckBox8.Checked = True Or CheckBox9.Checked = True Or CheckBox10.Checked = True Then
                 CheckBox1.Checked = False
-                CheckBox6.Checked = False
+
 
                 CheckBox4.Checked = False
                 CheckBox2.Checked = False
@@ -455,5 +492,9 @@
             End If
 
         End If
+    End Sub
+
+    Private Sub PictureBox17_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles PictureBox17.Click
+
     End Sub
 End Class
