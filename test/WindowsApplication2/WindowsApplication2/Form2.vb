@@ -15,6 +15,10 @@
     End Sub
 
     Private Sub Button2_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button2.Click
+        Dim a As New Form5
+        a.Show()
+        Me.Hide()
+
 
     End Sub
 
