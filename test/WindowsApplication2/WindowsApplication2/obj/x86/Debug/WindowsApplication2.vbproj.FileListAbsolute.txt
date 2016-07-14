@@ -33,3 +33,15 @@ C:\Users\GodisGood\Desktop\WindowsApplication2\WindowsApplication2\obj\x86\Debug
 C:\Users\GodisGood\Desktop\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication1.Form4.resources
 C:\Users\GodisGood\Desktop\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication1.Resources.resources
 C:\Users\GodisGood\Desktop\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+D:\Sounding\test\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+D:\Sounding\test\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+D:\Sounding\test\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
+D:\Sounding\test\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+D:\Sounding\test\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+D:\Sounding\test\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+D:\Sounding\test\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Sounding\test\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication1.Form2.resources
+D:\Sounding\test\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication1.Form3.resources
+D:\Sounding\test\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication1.Form4.resources
+D:\Sounding\test\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Sounding\test\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
