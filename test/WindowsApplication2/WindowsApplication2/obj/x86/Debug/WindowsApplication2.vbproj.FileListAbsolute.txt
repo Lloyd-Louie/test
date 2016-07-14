@@ -46,3 +46,6 @@ D:\Sounding\test\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsAp
 D:\Sounding\test\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication1.Resources.resources
 D:\Sounding\test\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
 D:\Sounding\test\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication1.Form5.resources
+D:\Aldrin\test\test\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.exe
+D:\Aldrin\test\test\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.xml
+D:\Aldrin\test\test\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication2.pdb
