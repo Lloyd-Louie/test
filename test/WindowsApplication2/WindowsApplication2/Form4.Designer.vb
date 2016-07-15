@@ -27,6 +27,7 @@ Partial Class Form4
         Me.ProgressBar1 = New System.Windows.Forms.ProgressBar()
         Me.PictureBox1 = New System.Windows.Forms.PictureBox()
         Me.RichTextBox1 = New System.Windows.Forms.RichTextBox()
+        Me.Label1 = New System.Windows.Forms.Label()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
@@ -35,7 +36,7 @@ Partial Class Form4
         '
         'ProgressBar1
         '
-        Me.ProgressBar1.Location = New System.Drawing.Point(70, 200)
+        Me.ProgressBar1.Location = New System.Drawing.Point(70, 228)
         Me.ProgressBar1.Name = "ProgressBar1"
         Me.ProgressBar1.Size = New System.Drawing.Size(207, 23)
         Me.ProgressBar1.TabIndex = 1
@@ -61,12 +62,23 @@ Partial Class Form4
         Me.RichTextBox1.Text = "This is still in a beta stage and not fully polished but                 enjoy :D" & _
             ""
         '
+        'Label1
+        '
+        Me.Label1.AutoSize = True
+        Me.Label1.ForeColor = System.Drawing.SystemColors.ButtonFace
+        Me.Label1.Location = New System.Drawing.Point(147, 212)
+        Me.Label1.Name = "Label1"
+        Me.Label1.Size = New System.Drawing.Size(39, 13)
+        Me.Label1.TabIndex = 3
+        Me.Label1.Text = "Label1"
+        '
         'Form4
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.SystemColors.ActiveCaptionText
         Me.ClientSize = New System.Drawing.Size(358, 314)
+        Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.RichTextBox1)
         Me.Controls.Add(Me.ProgressBar1)
         Me.Controls.Add(Me.PictureBox1)
@@ -74,10 +86,12 @@ Partial Class Form4
         Me.Text = "Form4"
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
+        Me.PerformLayout()
 
     End Sub
     Friend WithEvents PictureBox1 As System.Windows.Forms.PictureBox
     Friend WithEvents Timer1 As System.Windows.Forms.Timer
     Friend WithEvents ProgressBar1 As System.Windows.Forms.ProgressBar
     Friend WithEvents RichTextBox1 As System.Windows.Forms.RichTextBox
+    Friend WithEvents Label1 As System.Windows.Forms.Label
 End Class

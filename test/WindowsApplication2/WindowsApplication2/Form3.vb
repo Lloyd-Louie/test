@@ -9,7 +9,7 @@
             If CheckBox8.Checked = True Then
                 PictureBox6.Visible = False
                 PictureBox11.Visible = False
-                TextBox1.Text = Val(TextBox1.Text) + 10
+                TextBox1.Text = Val(TextBox1.Text) + 20
                 CheckBox7.Visible = False
                 CheckBox8.Visible = False
             End If
@@ -42,7 +42,7 @@
             If CheckBox7.Checked = True Then
                 PictureBox6.Visible = False
                 PictureBox11.Visible = False
-                TextBox1.Text = Val(TextBox1.Text) + 10
+                TextBox1.Text = Val(TextBox1.Text) + 20
                 CheckBox7.Visible = False
                 CheckBox8.Visible = False
             End If
@@ -73,7 +73,7 @@
             If CheckBox5.Checked = True Then
                 PictureBox7.Visible = False
                 PictureBox14.Visible = False
-                TextBox1.Text = Val(TextBox1.Text) + 10
+                TextBox1.Text = Val(TextBox1.Text) + 20
                 CheckBox5.Visible = False
                 CheckBox6.Visible = False
 
@@ -107,7 +107,7 @@
             If CheckBox6.Checked = True Then
                 PictureBox7.Visible = False
                 PictureBox14.Visible = False
-                TextBox1.Text = Val(TextBox1.Text) + 10
+                TextBox1.Text = Val(TextBox1.Text) + 20
                 CheckBox5.Visible = False
                 CheckBox6.Visible = False
 
@@ -141,7 +141,7 @@
             If CheckBox3.Checked = True Then
                 PictureBox12.Visible = False
                 PictureBox2.Visible = False
-                TextBox1.Text = Val(TextBox1.Text) + 10
+                TextBox1.Text = Val(TextBox1.Text) + 20
                 CheckBox3.Visible = False
                 CheckBox4.Visible = False
             End If
@@ -171,7 +171,7 @@
             If CheckBox4.Checked = True Then
                 PictureBox12.Visible = False
                 PictureBox2.Visible = False
-                TextBox1.Text = Val(TextBox1.Text) + 10
+                TextBox1.Text = Val(TextBox1.Text) + 20
                 CheckBox3.Visible = False
                 CheckBox4.Visible = False
             End If
@@ -227,7 +227,7 @@
 
                 PictureBox1.Visible = False
                 PictureBox8.Visible = False
-                TextBox1.Text = Val(TextBox1.Text) + 10
+                TextBox1.Text = Val(TextBox1.Text) + 20
                 CheckBox1.Visible = False
                 CheckBox2.Visible = False
 
@@ -262,7 +262,7 @@
             If CheckBox1.Checked = True Then
                 PictureBox1.Visible = False
                 PictureBox8.Visible = False
-                TextBox1.Text = Val(TextBox1.Text) + 10
+                TextBox1.Text = Val(TextBox1.Text) + 20
                 CheckBox1.Visible = False
                 CheckBox2.Visible = False
 
@@ -356,7 +356,7 @@
             If CheckBox10.Checked = True Then
                 PictureBox16.Visible = False
                 PictureBox15.Visible = False
-                TextBox1.Text = Val(TextBox1.Text) + 10
+                TextBox1.Text = Val(TextBox1.Text) + 20
                 CheckBox9.Visible = False
                 CheckBox10.Visible = False
             End If
@@ -390,7 +390,7 @@
             If CheckBox9.Checked = True Then
                 PictureBox16.Visible = False
                 PictureBox15.Visible = False
-                TextBox1.Text = Val(TextBox1.Text) + 10
+                TextBox1.Text = Val(TextBox1.Text) + 20
                 CheckBox9.Visible = False
                 CheckBox10.Visible = False
             End If
@@ -435,7 +435,7 @@
             If CheckBox12.Checked = True Then
                 PictureBox3.Visible = False
                 PictureBox10.Visible = False
-                TextBox1.Text = Val(TextBox1.Text) + 10
+                TextBox1.Text = Val(TextBox1.Text) + 20
                 CheckBox11.Visible = False
                 CheckBox12.Visible = False
             End If
@@ -469,7 +469,7 @@
             If CheckBox11.Checked = True Then
                 PictureBox3.Visible = False
                 PictureBox10.Visible = False
-                TextBox1.Text = Val(TextBox1.Text) + 10
+                TextBox1.Text = Val(TextBox1.Text) + 20
                 CheckBox11.Visible = False
                 CheckBox12.Visible = False
             End If

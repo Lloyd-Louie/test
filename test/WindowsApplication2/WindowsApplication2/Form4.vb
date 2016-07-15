@@ -4,6 +4,9 @@
         If Timer1.Enabled = True Then
 
             ProgressBar1.Value = ProgressBar1.Value + 2
+            Label1.Visible = True
+            Label1.Text = ProgressBar1.Value & "% Loading the game"
+
 
             If ProgressBar1.Value = 100 Then
                 Timer1.Enabled = False
@@ -26,6 +29,7 @@
 
     Private Sub Form4_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
         Timer1.Start()
+        Label1.Visible = False
 
     End Sub
 
