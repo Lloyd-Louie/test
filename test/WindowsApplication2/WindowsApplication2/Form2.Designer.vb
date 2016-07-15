@@ -31,18 +31,21 @@ Partial Class Form2
         '
         'Button1
         '
+        Me.Button1.BackColor = System.Drawing.Color.Transparent
+        Me.Button1.BackgroundImage = Global.WindowsApplication1.My.Resources.Resources.Icon_game1
         Me.Button1.Font = New System.Drawing.Font("Minion Pro", 15.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button1.Location = New System.Drawing.Point(146, 45)
+        Me.Button1.ForeColor = System.Drawing.SystemColors.ControlLightLight
+        Me.Button1.Location = New System.Drawing.Point(175, 12)
         Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(180, 78)
+        Me.Button1.Size = New System.Drawing.Size(161, 142)
         Me.Button1.TabIndex = 0
         Me.Button1.Text = "Play"
-        Me.Button1.UseVisualStyleBackColor = True
+        Me.Button1.UseVisualStyleBackColor = False
         '
         'Button2
         '
         Me.Button2.Font = New System.Drawing.Font("Minion Pro", 15.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button2.Location = New System.Drawing.Point(146, 249)
+        Me.Button2.Location = New System.Drawing.Point(175, 249)
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(180, 78)
         Me.Button2.TabIndex = 1
@@ -52,7 +55,7 @@ Partial Class Form2
         'Button3
         '
         Me.Button3.Font = New System.Drawing.Font("Century", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button3.Location = New System.Drawing.Point(55, 160)
+        Me.Button3.Location = New System.Drawing.Point(98, 160)
         Me.Button3.Name = "Button3"
         Me.Button3.Size = New System.Drawing.Size(356, 45)
         Me.Button3.TabIndex = 2
@@ -80,7 +83,7 @@ Partial Class Form2
         Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.Button1)
         Me.Name = "Form2"
-        Me.Text = "Form2"
+        Me.Text = "Main Menu"
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.ResumeLayout(False)
 

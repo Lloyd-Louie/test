@@ -74,7 +74,8 @@ Partial Class Form7
         Me.Controls.Add(Me.RichTextBox1)
         Me.Controls.Add(Me.Label1)
         Me.Name = "Form7"
-        Me.Text = "Form7"
+        Me.Text = "How To Play"
+        Me.TransparencyKey = System.Drawing.Color.Transparent
         Me.ResumeLayout(False)
         Me.PerformLayout()
 

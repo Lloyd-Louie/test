@@ -63,6 +63,16 @@ Namespace My.Resources
         '''<summary>
         '''  Looks up a localized resource of type System.Drawing.Bitmap.
         '''</summary>
+        Friend ReadOnly Property Ariana_Grande___Break_Free_ft_Zedd_cover_art() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("Ariana_Grande_-_Break_Free_ft_Zedd_cover_art", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
         Friend ReadOnly Property BackGround_11() As System.Drawing.Bitmap
             Get
                 Dim obj As Object = ResourceManager.GetObject("BackGround_11", resourceCulture)
@@ -212,6 +222,16 @@ Namespace My.Resources
         Friend ReadOnly Property NBH() As System.IO.UnmanagedMemoryStream
             Get
                 Return ResourceManager.GetStream("NBH", resourceCulture)
+            End Get
+        End Property
+        
+        '''<summary>
+        '''  Looks up a localized resource of type System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property pikachu() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("pikachu", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
             End Get
         End Property
         

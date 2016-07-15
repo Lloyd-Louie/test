@@ -53,7 +53,7 @@ Partial Class Form6
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.Button1)
         Me.Name = "Form6"
-        Me.Text = "Form6"
+        Me.Text = "Easter Egg"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
