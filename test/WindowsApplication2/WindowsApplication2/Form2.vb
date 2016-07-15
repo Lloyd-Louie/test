@@ -41,7 +41,20 @@
     End Sub
 
     Private Sub Button3_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button3.Click
-        Me.Close()
+        Dim magsumbol As Integer
+
+        magsumbol = MessageBox.Show("You sure you wanna exit?", "Question", MessageBoxButtons.YesNo, MessageBoxIcon.Information)
+
+        If magsumbol = vbYes Then
+            Me.Close()
+            My.Computer.Audio.Stop()
+        End If
+
+
+
+
+
+
 
     End Sub
 
