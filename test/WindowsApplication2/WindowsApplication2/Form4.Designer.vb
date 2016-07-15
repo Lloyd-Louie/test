@@ -26,6 +26,7 @@ Partial Class Form4
         Me.Timer1 = New System.Windows.Forms.Timer(Me.components)
         Me.ProgressBar1 = New System.Windows.Forms.ProgressBar()
         Me.PictureBox1 = New System.Windows.Forms.PictureBox()
+        Me.RichTextBox1 = New System.Windows.Forms.RichTextBox()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
@@ -49,12 +50,24 @@ Partial Class Form4
         Me.PictureBox1.TabIndex = 0
         Me.PictureBox1.TabStop = False
         '
+        'RichTextBox1
+        '
+        Me.RichTextBox1.BackColor = System.Drawing.SystemColors.InfoText
+        Me.RichTextBox1.ForeColor = System.Drawing.Color.WhiteSmoke
+        Me.RichTextBox1.Location = New System.Drawing.Point(48, 150)
+        Me.RichTextBox1.Name = "RichTextBox1"
+        Me.RichTextBox1.Size = New System.Drawing.Size(248, 44)
+        Me.RichTextBox1.TabIndex = 2
+        Me.RichTextBox1.Text = "This is still in a beta stage and not fully polished but                 enjoy :D" & _
+            ""
+        '
         'Form4
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.SystemColors.ActiveCaptionText
         Me.ClientSize = New System.Drawing.Size(358, 314)
+        Me.Controls.Add(Me.RichTextBox1)
         Me.Controls.Add(Me.ProgressBar1)
         Me.Controls.Add(Me.PictureBox1)
         Me.Name = "Form4"
@@ -66,4 +79,5 @@ Partial Class Form4
     Friend WithEvents PictureBox1 As System.Windows.Forms.PictureBox
     Friend WithEvents Timer1 As System.Windows.Forms.Timer
     Friend WithEvents ProgressBar1 As System.Windows.Forms.ProgressBar
+    Friend WithEvents RichTextBox1 As System.Windows.Forms.RichTextBox
 End Class

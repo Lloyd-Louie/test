@@ -64,3 +64,4 @@ D:\Aldrin\test\test\WindowsApplication2\WindowsApplication2\obj\x86\Debug\Sound 
 D:\Aldrin\test\test\WindowsApplication2\WindowsApplication2\obj\x86\Debug\Sound Check.xml
 D:\Aldrin\test\test\WindowsApplication2\WindowsApplication2\obj\x86\Debug\Sound Check.pdb
 D:\Aldrin\test\test\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication1.Form6.resources
+D:\Aldrin\test\test\WindowsApplication2\WindowsApplication2\obj\x86\Debug\WindowsApplication1.Form7.resources

@@ -20,7 +20,7 @@
     End Sub
 
     Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button1.Click
-        Dim a As New Form4
+        Dim a As New Form7
 
         a.Show()
         Me.Hide()
