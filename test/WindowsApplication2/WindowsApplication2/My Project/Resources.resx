@@ -136,14 +136,14 @@
   <data name="MHWGO" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\MHWGO.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="Easter Egg" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Easter Egg.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Just_What_I_want_to__Official_Instrumental_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Just What I want to (Official Instrumental).wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="NBH" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\NBH.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="Loading Screen" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Loading Screen.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="LOTB" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\LOTB.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -154,16 +154,22 @@
   <data name="download" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\download.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Loading Screen" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Loading Screen.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="WUIV" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\WUIV.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="BackGround_11" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\BackGround_11.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Loading Screen1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Loading Screen1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="SLS" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\SLS.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="Loading Screen1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Loading Screen1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Easter Egg1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Easter Egg1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

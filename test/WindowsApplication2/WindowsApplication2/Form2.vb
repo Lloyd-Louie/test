@@ -44,4 +44,13 @@
         Me.Close()
 
     End Sub
+
+    Private Sub PictureBox1_Click_1(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles PictureBox1.Click
+        Dim a As New Form6
+
+        a.Show()
+        Me.Hide()
+        MessageBox.Show("Welcome to the Easter Egg of this Weird Game :D", "./.", MessageBoxButtons.OK, MessageBoxIcon.Information)
+
+    End Sub
 End Class
