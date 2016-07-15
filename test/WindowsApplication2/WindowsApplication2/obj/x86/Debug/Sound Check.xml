@@ -15,6 +15,10 @@ SoundCheck
   Overrides the current thread's CurrentUICulture property for all
   resource lookups using this strongly typed resource class.
 </summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.Ariana_Grande___Break_Free_ft_Zedd_cover_art">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
 </member><member name="P:WindowsApplication1.My.Resources.Resources.BackGround_11">
 	<summary>
   Looks up a localized resource of type System.Drawing.Bitmap.
@@ -78,6 +82,10 @@ SoundCheck
 </member><member name="P:WindowsApplication1.My.Resources.Resources.NBH">
 	<summary>
   Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.pikachu">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
 </summary>
 </member><member name="P:WindowsApplication1.My.Resources.Resources.SLS">
 	<summary>

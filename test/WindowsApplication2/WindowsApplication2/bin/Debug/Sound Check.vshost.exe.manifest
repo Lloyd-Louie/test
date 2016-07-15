@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Sound Check.exe" size="62191104">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Sound Check.exe" size="62247936">
       <assemblyIdentity name="Sound Check" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>lKVuz60E0LpOn3iBcJw3pZDPJ9M=</dsig:DigestValue>
+        <dsig:DigestValue>8+1W/A/ZzNBg0QDfighlPvl8/ag=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
