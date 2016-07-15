@@ -84,7 +84,7 @@
                 CheckBox1.Checked = False
                 CheckBox4.Checked = False
                 CheckBox2.Checked = False
-                CheckBox5.Checked = False
+                CheckBox3.Checked = False
                 CheckBox6.Checked = False
                 CheckBox7.Checked = False
                 CheckBox8.Checked = False
@@ -119,7 +119,7 @@
                 CheckBox4.Checked = False
                 CheckBox2.Checked = False
                 CheckBox5.Checked = False
-                CheckBox6.Checked = False
+                CheckBox3.Checked = False
                 CheckBox7.Checked = False
                 CheckBox8.Checked = False
                 CheckBox9.Checked = False
@@ -581,5 +581,7 @@
         CheckBox10.Checked = False
         CheckBox11.Checked = False
         CheckBox12.Checked = False
+        My.Computer.Audio.Play(My.Resources.Just_What_I_want_to__Official_Instrumental_1, AudioPlayMode.Background)
+
     End Sub
 End Class
