@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Sound Check.exe" version="1.0.0.0" publicKeyToken="787532340f339a8c" language="neutral" processorArchitecture="x86" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Sound Check" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="Sound Check.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Sound Check.exe" size="62048256">
+      <assemblyIdentity name="Sound Check" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>dFNwFWV0jFuDQGmlIGcsQdUNjkw=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+<publisherIdentity name="CN=MyPC\GodisGood" issuerKeyHash="5a7efa613bcf4e5a9b8217d2a0b62d3eff479daa" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>ItO++i5ISEsvJ8wta0q0yhe974k=</DigestValue></Reference></SignedInfo><SignatureValue>C5G0li/HVv0FH0mXeUor6ukGwLlXYU6j+t4nGTPOktBiArY+A/kWhBu5yMy8oJdOgC7Ti6T1r6dnG/hSTtkQiwoswZRlz1pGscDSPRL8rmgA19tQWyOc6Cu7hjL2W694ixsRLgBykEBLcBoohrujlygeYqn8fJWr5tS1qkT0iGs=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>uJV76w3BNsNltJKuSMxC95v0dUAK38q4PqkVSqwIrWF23sxQR5B0LlRk+QbzDCYDURrJ36jcXY6Tqjk9Y5f2Hv1U5WIFqKmQCr57igVeD9Nnmp1HjSf+BqNjKFBVpm4ngYuaLFCPcCcyM5okabqqxTs4A6pWJW0+qui8YhzM7WU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="89efbd17cab44a6b2dcc272f4b48482efabed322" Description="" Url=""><as:assemblyIdentity name="Sound Check.exe" version="1.0.0.0" publicKeyToken="787532340f339a8c" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=MyPC\GodisGood</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>nq5Xgu/ZEMGjEwsERUAmGnZjwyo=</DigestValue></Reference></SignedInfo><SignatureValue>mVnXfAulwfV9h3AT4fM+sM2O2I7WS/VFmUnoeAYuhJ8or5DMrcg3accm9oIjmZ1rk/uvhJphcGV/DNrKAlUVIw/JmJK960wh+D3QYPypmL0ueQ0Lqa8whlOxRvN3yDCdtSRJ82DyzDUbwCxm4WVS/NsurQue66lL6C1NpjPedS4=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>uJV76w3BNsNltJKuSMxC95v0dUAK38q4PqkVSqwIrWF23sxQR5B0LlRk+QbzDCYDURrJ36jcXY6Tqjk9Y5f2Hv1U5WIFqKmQCr57igVeD9Nnmp1HjSf+BqNjKFBVpm4ngYuaLFCPcCcyM5okabqqxTs4A6pWJW0+qui8YhzM7WU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB0TCCATqgAwIBAgIQf6K2yTQfb7dJLJCnkiEKXzANBgkqhkiG9w0BAQUFADAnMSUwIwYDVQQDHhwATQB5AFAAQwBcAEcAbwBkAGkAcwBHAG8AbwBkMB4XDTE2MDcxNDE3MTMwMloXDTE3MDcxNDIzMTMwMlowJzElMCMGA1UEAx4cAE0AeQBQAEMAXABHAG8AZABpAHMARwBvAG8AZDCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAuJV76w3BNsNltJKuSMxC95v0dUAK38q4PqkVSqwIrWF23sxQR5B0LlRk+QbzDCYDURrJ36jcXY6Tqjk9Y5f2Hv1U5WIFqKmQCr57igVeD9Nnmp1HjSf+BqNjKFBVpm4ngYuaLFCPcCcyM5okabqqxTs4A6pWJW0+qui8YhzM7WUCAwEAATANBgkqhkiG9w0BAQUFAAOBgQA+51oukDOZEp/yxNvNoTMo+BB0qoigLkGWxV4/BREqzcI7DsrX9BPp6Chp8CQIvjQoS8H2GyP8qwn/HjBM8Mz7UrXLZPc6Fv13oVFlb9nzgVKy3XEQTw13LgRZX881Okz8I/sdgSrp6R5vBOuPxWtSmBayb5IwKQadueGqXLzB6g==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
